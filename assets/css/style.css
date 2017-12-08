@@ -1,0 +1,17 @@
+html {
+  font-size: 15px;
+  color: red;
+  background: yellow;
+}
+
+#image:hover{
+  transform: rotate(15deg);
+}
+#resources a:hover{
+  font-size: 25px;
+  color:orange;
+}
+#personal-digital{
+border-radius: 5px;
+  border: 10px solid blue
+}
