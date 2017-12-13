@@ -29,6 +29,8 @@ header{
   border-radius: 5px;
   border: 2px dashed black;
   background-color: grey;
+  font-size: 10px;
+  color: black;
 }
 #resources a:hover{
   font-size: 25px;
