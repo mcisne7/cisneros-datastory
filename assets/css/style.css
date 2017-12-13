@@ -19,12 +19,11 @@ header{
   border: 2px solid black;
 }
 
-
 #resources a:hover{
   font-size: 25px;
   color:orange;
 }
 #personal-digital{
   border-radius: 5px;
-  border: 10px solid blue;
+  border: 2px solid black;
 }
