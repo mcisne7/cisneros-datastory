@@ -1,11 +1,21 @@
 html {
   font-size: 15px;
   color: red;
+    background-image: radial-gradient(circle at left top, rgb(61, 247, 0), rgb(0, 0, 0));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
 }
 header{
-  font-size:100px;
-  border-radius: 5px;
-  border: 10px solid blue
+  font-size:50px;
+  border-radius: 2px;
+  border: 2px solid black
 }
 
 }
