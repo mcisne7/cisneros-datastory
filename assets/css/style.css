@@ -30,8 +30,10 @@ header{
 #personal-digital{
   border-radius: 5px;
   border: 2px dashed grey;
+  background-color: grey;
 }
 #social-digital{
   border-radius: 5px;
   border: 2px dashed grey;
+  background-color: grey;
 }
