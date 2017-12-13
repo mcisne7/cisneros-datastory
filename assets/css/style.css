@@ -23,8 +23,13 @@ header{
   font-size:50px;
   border-radius: 2px;
   border: 2px solid black;
+  background-color: grey;
 }
-
+#img{
+  border-radius: 5px;
+  border: 2px dashed black;
+  background-color: grey;
+}
 #resources a:hover{
   font-size: 25px;
   color:orange;
