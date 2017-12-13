@@ -1,9 +1,12 @@
 html {
   font-size: 15px;
   color: red;
-  background: blue;
 }
-
+header{
+  font-size:100px;
+  border-radius: 5px;
+  border: 10px solid blue
+}
 #image:hover{
   transform: rotate(15deg);
 }
@@ -12,6 +15,7 @@ html {
   color:orange;
 }
 #personal-digital{
-border-radius: 5px;
+  border-radius: 5px;
   border: 10px solid blue
+}
 }
