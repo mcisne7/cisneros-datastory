@@ -12,13 +12,14 @@ html {
     background-clip: initial;
     background-color: initial;
 }
+
 header{
   font-size:50px;
   border-radius: 2px;
   border: 2px solid black
 }
 
-}
+
 #resources a:hover{
   font-size: 25px;
   color:orange;
