@@ -2,6 +2,7 @@ html {
   font-size: 15px;
   color: red;
   background-image: repeating-linear-gradient(rgb(61, 247, 0), rgb(0, 0, 0);
+
     /* background-image: radial-gradient(circle at left top, rgb(61, 247, 0), rgb(0, 0, 0));
     background-position-x: initial;
     background-position-y: initial;
