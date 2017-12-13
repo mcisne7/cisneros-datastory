@@ -29,11 +29,11 @@ header{
 }
 #personal-digital{
   border-radius: 5px;
-  border: 2px dashed grey;
+  border: 2px dashed black;
   background-color: grey;
 }
 #social-digital{
   border-radius: 5px;
-  border: 2px dashed grey;
+  border: 2px dashed black;
   background-color: grey;
 }
