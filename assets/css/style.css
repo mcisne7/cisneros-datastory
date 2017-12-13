@@ -7,8 +7,7 @@ header{
   border-radius: 5px;
   border: 10px solid blue
 }
-#image:hover{
-  transform: rotate(15deg);
+
 }
 #resources a:hover{
   font-size: 25px;
