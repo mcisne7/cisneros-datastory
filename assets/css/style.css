@@ -16,7 +16,7 @@ html {
 header{
   font-size:50px;
   border-radius: 2px;
-  border: 2px solid black
+  border: 2px solid black;
 }
 
 
@@ -26,6 +26,5 @@ header{
 }
 #personal-digital{
   border-radius: 5px;
-  border: 10px solid blue
-}
+  border: 10px solid blue;
 }
