@@ -18,6 +18,7 @@ html {
 }
 
 header{
+  padding: 10px
   font-size:50px;
   border-radius: 2px;
   border: 2px solid black;
@@ -28,6 +29,7 @@ header{
   color:orange;
 }
 #personal-digital{
+  padding: 10px
   border-radius: 5px;
   border: 2px dashed black;
   background-color: grey;
@@ -36,4 +38,5 @@ header{
   border-radius: 5px;
   border: 2px dashed black;
   background-color: grey;
+  padding: 10px
 }
