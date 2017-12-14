@@ -1,7 +1,7 @@
 html {
   font-size: 15px;
-  color: red;
-  background-image: repeating-linear-gradient(rgb(61, 247, 0), rgb(0, 0, 0));
+  color: #171E26;
+  background: #F0F1F4;
 
     /* background-image: radial-gradient(circle at left top, rgb(61, 247, 0), rgb(0, 0, 0));
     background-position-x: initial;
@@ -18,35 +18,29 @@ html {
 }
 
 header{
-  padding: 10px;
-  margin: 10px;
+  padding: 20px;
+  margin: 0%;
+  text-align: center;
   font-size:50px;
-  border-radius: 2px;
-  border: 2px solid black;
-  background-color: grey;
+  border-bottom: 2px solid #6F7E8C;
+  background-color: #EF0C1A;
 }
 #image-container{
-  border-radius: 5px;
-  border: 2px dashed black;
-  background-color: grey;
+  border-bottom: 2px solid #6F7E8C;
   font-size: 10px;
-  color: black;
+  color: #424D58;
 }
 #resources a:hover{
   font-size: 25px;
-  color:orange;
+  color:#424D58;
 }
 #personal-digital{
   padding: 10px;
   margin: 10px;
-  border-radius: 5px;
-  border: 2px dashed black;
-  background-color: grey;
+  border-bottom: 2px solid #6F7E8C;
 }
 #social-digital{
-  border-radius: 5px;
-  border: 2px dashed black;
-  background-color: grey;
+  border-bottom: 2px solid #6F7E8C;
   padding: 10px;
   margin: 10px;
 }
