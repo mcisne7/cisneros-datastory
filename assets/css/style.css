@@ -21,10 +21,12 @@ header{
   padding: 20px;
 }
 #image-container{
-  width: 150px;
   font-size: 10px;
   color: #424D58;
   float: left;
+}
+#image-container a img {
+  width: 150px;
 }
 #resources a:hover{
   font-size: 25px;
