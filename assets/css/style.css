@@ -19,6 +19,7 @@ header{
 #social-digital {
   border-bottom: 2px solid #6F7E8C;
   padding: 20px;
+  display: grid;
 }
 #image-container{
   font-size: 10px;
