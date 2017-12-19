@@ -26,8 +26,8 @@ header{
   color: #424D58;
   float: left;
 }
-#image-container img {
-  width: 50px;
+#image {
+  width: 350px;
 }
 #resources a:hover{
   font-size: 25px;
