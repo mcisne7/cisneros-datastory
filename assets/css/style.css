@@ -19,12 +19,12 @@ header{
 #social-digital {
   border-bottom: 2px solid #6F7E8C;
   padding: 20px;
-  display: grid;
+  display:inline-block;
 }
 #image-container{
   font-size: 10px;
   color: #424D58;
-
+  float: left;
 }
 #image {
   width: 350px;
