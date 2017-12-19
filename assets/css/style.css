@@ -2,19 +2,6 @@ html {
   font-size: 15px;
   color: #171E26;
   background: #F0F1F4;
-
-    /* background-image: radial-gradient(circle at left top, rgb(61, 247, 0), rgb(0, 0, 0));
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
-    This is my backup because it works and looks nice */
-
 }
 
 header{
@@ -34,6 +21,7 @@ header{
   padding: 20px;
 }
 #image-container{
+  width: 150px;
   font-size: 10px;
   color: #424D58;
 }
