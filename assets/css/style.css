@@ -16,15 +16,15 @@ header{
   border-bottom: 2px solid #6F7E8C;
   background-color: #EF0C1A;
 }
+/*Sets font size for h1 headers throughout.*/
+h1{
+  font-size: 25px;
+}
 /*Sets padding for the entire doc.*/
 #image-container,
 #personal-digital,
 #social-digital {
   padding: 20px;
-}
-/*Sets font size for h1 headers throughout.*/
-h1{
-  font-size: 25px;
 }
 /*Sets style for the image container div*/
 #image-container{
