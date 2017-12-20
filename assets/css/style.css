@@ -1,9 +1,10 @@
+/*Sets the general style for the whole document*/
 html {
   font-size: 15px;
   color: #171E26;
   background: #F0F1F4;
 }
-
+/*Sets the general style for the header */
 header{
   padding: 20px;
   width:100%;
@@ -15,26 +16,52 @@ header{
   border-bottom: 2px solid #6F7E8C;
   background-color: #EF0C1A;
 }
+/*Sets padding for the entire doc.*/
 #image-container,
 #personal-digital,
 #social-digital {
-  /*border-bottom: 2px solid #6F7E8C;*/
   padding: 20px;
-  display:inline;
 }
+/*Sets font size for h1 headers throughout.*/
+h1{
+  font-size: 25px;
+}
+/*Sets style for the image container div*/
 #image-container{
   font-size: 10px;
   color: #424D58;
   float: left;
 }
-#image {
-  width: 350px;
+/*Sets in between size of image*/
+#image{
+  width: 650px;
 }
 
-h1{
-font-size: 25px;
+@media screen and (min-width:810px) {
+  /* Sets breakpoint for large screens. Also changes image size.*/
+  #image-container,
+  #personal-digital,
+  #social-digital {
+    display: grid;
+    grid-template-columns: 40%, 1fr;
+  }
+  #image {
+    width: 500px;
+  }
 }
 
-#social-digital{
+@media screen and (max-width: 490px) {
+  /* Changes breakpoint for small screens. Also changes image size.*/
 
+  #image {
+    width: 400px;
+  }
+  #personal-digital{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  #social-digital {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }
